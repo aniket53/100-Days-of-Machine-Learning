@@ -1,0 +1,8 @@
+1. ML development life cycle
+    1. Gathering Data
+    2. Data preparation
+    3. Data Wrangling
+    4. Analise Data
+    5. Train the model
+    6. Test the model
+    7. Deployment
