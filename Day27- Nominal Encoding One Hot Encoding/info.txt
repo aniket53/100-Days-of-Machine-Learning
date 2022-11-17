@@ -1,0 +1,9 @@
+One hot encoding
+yellow blue red convert them to vectors as
+y=[1,0.0]
+if n cols are there then prepare n-1 new cols so that multicollenarity can be removed. (this is a dummy variable trap.)
+
+we can drop first cols also.
+
+to reduce the dimensionality we can club small columns into one column.
+

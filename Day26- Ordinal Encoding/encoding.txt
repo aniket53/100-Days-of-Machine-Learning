@@ -1,0 +1,5 @@
+Label encoding: done on output column and changes cate. data to numeri. data
+
+Ordinal data eg. PG>UG>HSC
+
+Label encoding

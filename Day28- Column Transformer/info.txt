@@ -1,0 +1,2 @@
+OHE+OE+NE = column transformer 
+it will do the same work in one place and different transformers on different columns.
